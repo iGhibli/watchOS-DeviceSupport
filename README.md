@@ -26,3 +26,11 @@
 5. watchOS 6.x
 	* 6.0 (FromXcode_11.2.1_GM_Seed.xip) `2019/11/12`
 	* 6.1 (FromXcode_11.2.1_GM_Seed.xip) `2019/11/12`
+	* 6.1 (FromXcode_12_beta_2.xip) `2020/07/13`
+	* 6.2 (FromXcode_12_beta_2.xip) `2020/07/13`
+6. watchOS 7.x
+	* 7.0 (FromXcode_12_beta_2.xip) `2020/07/13`
+
+
+
+---
