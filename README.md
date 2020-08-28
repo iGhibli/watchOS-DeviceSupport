@@ -29,7 +29,7 @@
 	* 6.1 (FromXcode_12_beta_2.xip) `2020/07/13`
 	* 6.2 (FromXcode_12_beta_4.xip) `2020/08/07`
 6. watchOS 7.x
-	* 7.0 (FromXcode_12_beta_4.xip) `2020/08/07`
+	* 7.0 (FromXcode_12_beta_6.xip) `2020/08/28`
 
 
 
