@@ -33,6 +33,7 @@
 	* 7.0 (FromXcode_12_GM_seed.xip) `2020/09/16`
 	* 7.1 (FromXcode_12.2_beta_xip) `2020/09/21`
 	* 7.1 (FromXcode_12.2_beta_3_xip) `2020/10/15`
+	* 7.1 (FromXcode_12.2_Release_Candidate_xip) `2020/11/09`
 
 
 
