@@ -40,6 +40,7 @@
 	* 7.2 (FromXcode_12.5_beta_xip) `2021/02/07`
 	* 7.3 (FromXcode_12.5_beta_xip) `2021/02/07`
 	* 7.4 (FromXcode_12.5_beta_xip) `2021/02/07`
+	* 7.4 (FromXcode_12.5_beta_2.xip) `2021/02/18`
 
 
 
