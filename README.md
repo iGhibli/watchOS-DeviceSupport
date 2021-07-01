@@ -45,8 +45,10 @@
 	* 7.4 (FromXcode_12.5_Release_Candidate.xip) `2021/04/25`
 	* 7.4 (FromXcode_13_beta.xip) `2021/06/08`
 	* 7.4 (FromXcode_12.5.1(12E507)) `2021/06/22`
+	* 7.4 (FromXcode_13_beta_2.xip) `2021/07/01`
 7. watchOS 8.x
 	* 8.0 (FromXcode_13_beta.xip) `2021/06/08`
+	* 8.0 (FromXcode_13_beta_2.xip) `2021/07/01`
 
 
 ---
