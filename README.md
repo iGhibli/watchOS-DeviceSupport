@@ -50,6 +50,7 @@
 	* 8.0 (FromXcode_13_beta.xip) `2021/06/08`
 	* 8.0 (FromXcode_13_beta_2.xip) `2021/07/01`
 	* 8.0 (FromXcode_13_beta_3.xip) `2021/07/16`
+	* 8.0 (FromXcode_13_beta_4.xip) `2021/08/03`
 
 
 ---
