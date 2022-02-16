@@ -54,6 +54,8 @@
 	* 8.0 (FromXcode_13_Release_Candidate.xip) `2021/09/16`
 	* 8.0 (FromXcode_13.2.1(13C100)) `2022/02/15`
 	* 8.3 (FromXcode_13.2.1(13C100)) `2022/02/15`
+	* 8.3 (FromXcode_13.3_beta_2.xip) `2022/02/16`
+	* 8.5 (FromXcode_13.3_beta_2.xip) `2022/02/16`
 
 
 ---
