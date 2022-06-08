@@ -58,6 +58,6 @@
 	* 8.5 (FromXcode_13.3_beta_2.xip) `2022/02/16`
 	* 8.5 (FromXcode_13.3(13E113)) `2022/03/17`
 8. watchOS 9.x
-        * 9.0 (FromXcode_14_beta.xip) `2022/06/08`
+	* 8.0 (FromXcode_14_beta.xip) `2022/06/08`
 
 ---
