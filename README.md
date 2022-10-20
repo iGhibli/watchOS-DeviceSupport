@@ -62,5 +62,7 @@
 8. watchOS 9.x
 	* 9.0 (FromXcode_14_beta.xip) `2022/06/08`
 	* 9.0 (FromXcode_14.0.1_Release_Candidate.xip) `2022/09/20`
+	* 9.0 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
+	* 9.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
 
 ---
