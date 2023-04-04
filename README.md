@@ -66,5 +66,6 @@
 	* 9.1 (FromXcode_14.1_Release_Candidate.xip) `2022/10/20`
 	* 9.1 (FromXcode_14.3_beta_2.xip) `2023/03/02`
 	* 9.4 (FromXcode_14.3_beta_2.xip) `2023/03/02`
+	* 9.4 (FromXcode_14.3(14E222b)) `2023/04/04`
 
 ---
